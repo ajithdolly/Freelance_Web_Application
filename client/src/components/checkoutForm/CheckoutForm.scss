@@ -1,0 +1,17 @@
+.container {
+    .form-container {
+        display: flex;
+        flex-direction: column;
+        width: 1500px;
+        border: thick;
+        border-color: black;
+        margin: auto;
+
+        .button-submit {
+            
+            margin-top: 20px;
+            width: 130px;
+            height: 50px;
+        }
+    }
+}
